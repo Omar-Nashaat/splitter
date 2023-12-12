@@ -1,0 +1,10 @@
+body{
+    background-color: #092635;
+}
+.btn{
+    --bs-btn-bg : #5C8374;
+    transition: all ease-in-out 0.15s;
+}
+.btn:hover{
+    background-color: #1B4242;
+}
